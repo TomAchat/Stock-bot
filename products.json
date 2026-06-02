@@ -70,36 +70,30 @@
     "name": "OP05 - Awakening of a new Era - Booster Display (EN)",
     "url": "https://ryu.land/products/op05-awakening-of-a-new-era-booster-display-en",
     "unavailable_text": "Sold out"
-  }
+  },
    {
     "id": "OP13-400coups-FR",
     "name": "One Piece - Boîte de 24 Boosters (OP-13)",
     "url": "https://www.400coups.ch/one-piece-boite-de-24-boosters-op-13-successeurs.html",
     "unavailable_text": "[COMMANDE BIENTÔT DISPONIBLE]"
-  }
+  },
      {
     "id": "EB03-400coups",
     "name": "One Piece - Boîte de 24 Boosters (EB-03)",
     "url": "https://www.400coups.ch/one-piece-boite-de-24-boosters-eb-03-heroines-de-one-piece.html",
     "unavailable_text": "[COMMANDE BIENTÔT DISPONIBLE]"
-  }
+  },
      {
     "id": "OP14-400coups",
     "name": "One Piece - Boîte de 24 Boosters (OP-14)",
     "url": "https://www.400coups.ch/one-piece-boite-de-24-boosters-op-14-les-sept-de-la-mer-dazur.html",
     "unavailable_text": "[COMMANDE BIENTÔT DISPONIBLE]"
-  }
+  },
      {
     "id": "OP16-400coups",
     "name": "One Piece - Boîte de 24 Boosters (OP-16)",
     "url": "https://www.400coups.ch/one-piece-boite-de-24-boosters-op-16.html",
     "unavailable_text": "[COMMANDE BIENTÔT DISPONIBLE]"
-  }
-     {
-    "id": "",
-    "name": "",
-    "url": "",
-    "unavailable_text": ""
-  }
+  },
 ]
   
