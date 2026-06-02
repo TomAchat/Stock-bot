@@ -40,7 +40,7 @@ async def check_product(product: dict) -> bool:
             response = await client.get(product['url'])
             response.raise_for_status()
 
-        soup = BeautifulSoup(response.text, 'lxml')
+       soup = BeautifulSoup(response.text, 'html.parser')
 
         # --- Méthode 1 : sélecteur CSS ---
         if 'selector' in product:
