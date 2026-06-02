@@ -52,7 +52,7 @@ async def check_all_products():
 
 async def main():
     init_db()
-    log.info("🤖 Bot démarré — vérification toutes les 10 minutes")
+    log.info("🤖 Bot démarré — vérification toutes les 4 minutes")
 
     # Vérification immédiate au démarrage
     await check_all_products()
